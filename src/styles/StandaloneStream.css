@@ -1,0 +1,23 @@
+video, p {
+    margin-left: 30px;
+}
+
+video {
+    -o-object-fit: cover;
+    object-fit: cover;
+    -o-object-position: center;
+    object-position: center;
+}
+
+.overlayID {
+    background:tan;
+	position: relative;
+	width: 79%;
+	text-align: center;
+	color: white;
+	-webkit-transition: .4s;
+	transition: .4s;
+	padding: 0.5em;
+    top: -40px;
+    right: -30px;
+}

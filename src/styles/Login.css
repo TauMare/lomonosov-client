@@ -1,0 +1,8 @@
+/* body{
+    background: none !important;
+} */
+
+.buttonsBox > button {
+    margin-top: 30px;
+    margin-right: 10px;
+}
